@@ -1,5 +1,4 @@
-[![gylim7826](http://mazassumnida.wtf)](https://solved.ac)
-
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=gylim7826)](https://solved.ac/profile/gylim7826)
 <!--
 **niceome/niceome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
