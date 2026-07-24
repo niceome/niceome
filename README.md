@@ -1,5 +1,3 @@
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=gylim7826)](https://solved.ac/profile/gylim7826)
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=niceome's%20GitHub&animation=blink&fontColor=000000&fontSize=60" />
     </div>
