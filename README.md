@@ -1,5 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=niceome&color=green)
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=niceome's%20GitHub&animation=blink&fontColor=000000&fontSize=60" />
     </div>
